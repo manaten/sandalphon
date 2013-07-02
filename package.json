@@ -1,0 +1,17 @@
+{
+  "name":    "sandalphon",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "jsdom": "*",
+    "sha1": "*",
+    "request": "*",
+    "feedparser": "*",
+    "mysql": "*",
+    "express": "3.3.1",
+    "ejs": "*"
+  }
+}
